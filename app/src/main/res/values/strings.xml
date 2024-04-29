@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Card</string>
+    <string name="name_surname">Ankit</string>
+    <string name="business">Masters in Computer Science</string>
+    <string name="phone_number">+91 9145728947</string>
+    <string name="email_text">ankit2385@yahoo.com</string>
+    <string name="share_text"> @AnkitModi </string>
+</resources>
